@@ -26,7 +26,7 @@ function TasksPage() {
       : (
         <>
          <h1 className='text-4xl text-white font-bold text-center'>Tasks</h1>
-         <div className='grid grid-cols-3 gap-2'>
+         <div className='grid grid-cols-1 lg:grid-cols-3 gap-2'>
             {tasks.map((task)=><TaskCard task={task} key={task.id}/>)}
         </div>
         </>
