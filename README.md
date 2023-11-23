@@ -17,9 +17,9 @@ This is the frontend part of the MERN MySQL CRUD Tasks application. It's built u
 
 ## 1. Clone the repository
 
-  Firstly, you will need to run the following command in the Terminal to clone the repository onto your machine.
+Firstly, you will need to run the following command in the Terminal to clone the repository onto your machine.
 
-  ```git clone https://github.com/editahenriquez/mern-mysql-frontend.git```
+```git clone https://github.com/editahenriquez/mern-mysql-frontend.git```
 
 ## 2. Usage
 
