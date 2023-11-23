@@ -14,7 +14,7 @@ function TaskCard({task}) {
     hour: 'numeric',
     minute: 'numeric',
     second: 'numeric',
-    timeZoneName: 'short',
+    //timeZoneName: 'short',
   });
 
   const handleUpdateTasks = async () => {
