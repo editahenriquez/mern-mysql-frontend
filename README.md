@@ -7,7 +7,7 @@ This is the frontend part of the MERN MySQL CRUD Tasks application. It's built u
 - User-friendly interface to interact with tasks
 - Create, read, update, and delete tasks
 
-![Tasks App](TasksApp-screenshot-screenshot.png?raw=true "Tasks App ")
+![Tasks App](TasksApp-screenshot.png?raw=true "Tasks App ")
 
 ### <a href="https://mern-mysql-frontend-ttl4.onrender.com/">LIVE DEMO</a>
 
